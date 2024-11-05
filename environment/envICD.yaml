@@ -1,0 +1,51 @@
+name: ICD2425
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h8ffe710_4
+  - ca-certificates=2023.7.22=h56e8100_0
+  - click=8.1.7=win_pyh7428d3b_0
+  - colorama=0.4.6=pyhd8ed1ab_0
+  - intel-openmp=2023.2.0=h57928b3_50496
+  - joblib=1.3.2=pyhd8ed1ab_0
+  - libblas=3.9.0=19_win64_mkl
+  - libcblas=3.9.0=19_win64_mkl
+  - libexpat=2.5.0=h63175ca_1
+  - libffi=3.4.2=h8ffe710_5
+  - libhwloc=2.9.3=default_haede6df_1009
+  - libiconv=1.17=h8ffe710_0
+  - liblapack=3.9.0=19_win64_mkl
+  - libsqlite=3.43.2=hcfcfb64_0
+  - libxml2=2.11.5=hc3477c8_1
+  - libzlib=1.2.13=hcfcfb64_5
+  - mkl=2023.2.0=h6a75c08_50496
+  - nltk=3.8.1=pyhd8ed1ab_0
+  - numpy=1.26.0=py312h8753938_0
+  - openssl=3.1.3=hcfcfb64_0
+  - pandas=2.1.1=py312h2ab9e98_1
+  - pip=23.3=pyhd8ed1ab_0
+  - pthreads-win32=2.9.1=hfa6e2cd_3
+  - python=3.12.0=h2628c8c_0_cpython
+  - python-dateutil=2.8.2=pyhd8ed1ab_0
+  - python-tzdata=2023.3=pyhd8ed1ab_0
+  - python_abi=3.12=4_cp312
+  - pytz=2023.3.post1=pyhd8ed1ab_0
+  - regex=2023.10.3=py312he70551f_0
+  - requests
+  - scikit-learn=1.3.1=py312hcacafb1_1
+  - scipy=1.11.3=py312h8753938_1
+  - setuptools=68.2.2=pyhd8ed1ab_0
+  - six=1.16.0=pyh6c4a22f_0
+  - tbb=2021.10.0=h91493d7_2
+  - threadpoolctl=3.2.0=pyha21a80b_0
+  - tk=8.6.13=hcfcfb64_0
+  - tqdm=4.66.1=pyhd8ed1ab_0
+  - tzdata=2023c=h71feb2d_0
+  - ucrt=10.0.22621.0=h57928b3_0
+  - vc=14.3=h64f974e_17
+  - vc14_runtime=14.36.32532=hdcecf7f_17
+  - vs2015_runtime=14.36.32532=h05e6639_17
+  - wheel=0.41.2=pyhd8ed1ab_0
+  - xz=5.2.6=h8d14728_0
+prefix: C:\Users\gilra\miniforge3\envs\ICD2425
