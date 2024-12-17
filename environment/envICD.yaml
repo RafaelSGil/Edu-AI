@@ -51,4 +51,7 @@ dependencies:
   - pip:
       - wordcloud
       - streamlit
+      - nltk
+      - gensim 
+      - pyLDAvis
 prefix: C:\Users\gilra\miniforge3\envs\ICD2425
