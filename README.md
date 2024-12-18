@@ -20,5 +20,5 @@ The dashboard was built using [Streamlit](https://streamlit.io/).
 
 In order to use the dashboard, run the following command in the terminal:
 ```
-streamlit run dashboard/app.py
+streamlit run dashboard/home.py
 ```

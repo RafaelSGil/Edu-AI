@@ -54,4 +54,5 @@ dependencies:
       - nltk
       - gensim 
       - pyLDAvis
+      - plotly
 prefix: C:\Users\gilra\miniforge3\envs\ICD2425
