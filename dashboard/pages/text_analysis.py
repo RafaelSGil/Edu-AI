@@ -170,7 +170,7 @@ def display_clustering():
     num_clusters = st.sidebar.slider("Number of Clusters", 2, 10, 3)
 
     tfidf = TfidfVectorizer(max_features=1000)
-    features = tfidf.fit_transform(DATA['Processed_Abstract'])  # Replace with actual column
+    features = tfidf.fit_transform(DATA['Processed_Abstract'])
 
     kmeans = KMeans(n_clusters=num_clusters, random_state=42)
     clusters = kmeans.fit_predict(features)
@@ -229,7 +229,7 @@ def display_preprocessing_comparison():
         label="Select number of rows to display",
         min_value=1,
         max_value=10,
-        value=5,  # Default value
+        value=5, 
         step=1
     )
 
