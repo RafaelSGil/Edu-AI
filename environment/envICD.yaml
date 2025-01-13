@@ -55,4 +55,6 @@ dependencies:
       - gensim 
       - pyLDAvis
       - plotly
+      - seaborn
+      - python-dotenv
 prefix: C:\Users\gilra\miniforge3\envs\ICD2425
